@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![Status] https://github.com/VishalJx/VishalJx-Smart-Traffic-Detection-Using-YOLO-v5/blob/main/assets/output.gif?raw=true]()
 
 </div>
 
